@@ -229,6 +229,10 @@ border-bottom: 3px solid #ee9234 ;
     .footer-col{
       width: 100%;
   }
+  #row-cursos img{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+  }
   }
   
   @media(max-width:992px){
